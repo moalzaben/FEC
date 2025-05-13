@@ -111,11 +111,5 @@ ui <- fluidPage(
   )
 )
 
-# Keep your server code as it is
-# (No changes needed in server function for the Sources tab)
 
-# Place your original server logic here...
-# [The server part you pasted already is fine as-is]
-
-# At the end of your script
 shinyApp(ui, server)
